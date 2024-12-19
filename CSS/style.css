@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: #00f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Background images for each page */
+body.index {
+    background: url('images/crossroads.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.north {
+    background: url('images/small-town.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.bar {
+    background: url('images/bar.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.bartender {
+    background: url('images/bartender.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.east {
+    background: url('images/three.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.west {
+    background: url('images/lake.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.south {
+    background: url('images/forest.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.start {
+    background: url('images/start.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
