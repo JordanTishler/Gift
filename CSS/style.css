@@ -29,42 +29,54 @@ a:hover {
 }
 
 /* Background images for each page */
-body.index {
-    background: url('images/crossroads.jpg') no-repeat center center fixed;
+.inde {
+    background-image: url("../images/crossroads.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.north {
-    background: url('images/small-town.jpg') no-repeat center center fixed;
+    background-image: url('../images/small-town.jpg');
+    background-repeat: no-repeat;  
     background-size: cover;
 }
 
 body.bar {
-    background: url('images/bar.jpg') no-repeat center center fixed;
+    background-image: url('../images/bar.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.bartender {
-    background: url('images/bartender.jpg') no-repeat center center fixed;
+    background-image: url('../images/bartender.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.east {
-    background: url('images/three.jpg') no-repeat center center fixed;
+    background-image: url('../images/three.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.west {
-    background: url('images/lake.jpg') no-repeat center center fixed;
+    background-image: url('../images/lake.jpeg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.south {
-    background: url('images/forest.jpg') no-repeat center center fixed;
+    background-image: url('../images/forest.jpeg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.start {
-    background: url('images/start.jpg') no-repeat center center fixed;
+    background-image: url('../images/start.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
+div
+{background-color: #b1b1b1c5;
+width: 700px;
+margin:auto}
