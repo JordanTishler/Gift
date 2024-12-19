@@ -53,19 +53,19 @@ body.bartender {
     background-size: cover;
 }
 
-body.east {
+body.west {
     background-image: url('../images/three.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-body.west {
+body.south {
     background-image: url('../images/lake.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-body.south {
+body.east {
     background-image: url('../images/forest.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -77,6 +77,6 @@ body.start {
     background-size: cover;
 }
 div
-{background-color: #b1b1b1c5;
+{background-color: #686767e0;
 width: 700px;
 margin:auto}
